@@ -3,3 +3,12 @@ npm instal -g cordova   ( global )
 cordova --version    pour voir la version 
 
 cordova create hello com.example.hello HelloWorld
+
+
+pour la JDk  
+
+telecharger la JDK et l'installer 
+
+ copier C:\Program Files\Java\jdk-14.0.1\bin et le coller dans path de variable d'environement 
+ 
+ java --version  pour voir si ca marche 
