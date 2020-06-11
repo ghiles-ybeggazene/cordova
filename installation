@@ -1,1 +1,5 @@
 npm instal -g cordova   ( global ) 
+
+cordova --version    pour voir la version 
+
+cordova create hello com.example.hello HelloWorld
